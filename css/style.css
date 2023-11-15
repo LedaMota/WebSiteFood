@@ -42,3 +42,10 @@ header .logo{
 header .logo i{
     color:-var(--green);
 }
+
+
+section p {
+    color:#27ae60;
+    margin-top: 30px;
+    font-size: 40px;
+}
