@@ -43,16 +43,3 @@ header .logo i{
     color:-var(--green);
 }
 
-.container{
-    background-color:coral;
-    margin-top: 70px;
-    width: 100%;
-    height: auto;
-}
-
-section p {
-    color:#ae274f;
-    margin-top: 20px;
-    font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
